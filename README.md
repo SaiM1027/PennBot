@@ -1,7 +1,7 @@
-# Yalebot
+# PennBot
 [![Build Status](https://travis-ci.org/ErikBoesen/Yalebot.svg?branch=master)](https://travis-ci.org/ErikBoesen/Yalebot)
 
-> A GroupMe chatbot for Yale University.
+> A GroupMe chatbot for the University of Pennsylvania.
 
 ![Screenshot](screenshot.png)
 
